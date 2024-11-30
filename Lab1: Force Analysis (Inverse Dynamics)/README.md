@@ -11,3 +11,7 @@ d. Animate the system for the commanded trajectories.
 ## Question
 ![Image Description](images/question.png)
 
+## Solution
+![Image Description](images/trajectory.png)
+![Image Description](images/joint_variable.png)
+![Image Description](images/velocity_accln_endeffector.png)
