@@ -8,4 +8,6 @@ c. Find joint torque (τ) required to follow the above trajectory and plot joint
 vs time
 d. Animate the system for the commanded trajectories. 
 
+## Question
+![Image Description](images/question.png)
 
